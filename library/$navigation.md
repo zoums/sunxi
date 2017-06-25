@@ -2,7 +2,7 @@
 #### [首页](?file=首页 "返回首页")
 
 ##### OrangePi
-- [将操作系统写入TF卡中](?file=001-学习amWiki/01-将操作系统写入TF卡中 "将操作系统写入TF卡中")
+- [将操作系统写入TF卡中](?file=001-OrangePi/01-将操作系统写入TF卡中 "将操作系统写入TF卡中")
 
 ##### 学习amWiki
 - [amWiki轻文库简介](?file=002-学习amWiki/01-amWiki轻文库简介 "amWiki轻文库简介")
