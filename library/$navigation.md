@@ -47,7 +47,7 @@
         - [前言-H3-H2+](?file=001-OrangePi/05-GPIO/03-H3-H2+/01-前言-H3-H2+ "前言-H3-H2+")
         - [WiringOPh3](?file=001-OrangePi/05-GPIO/03-H3-H2+/02-WiringOPh3 "WiringOPh3")
         - [GPIO-Python](?file=001-OrangePi/05-GPIO/03-H3-H2+/03-GPIO-Python "GPIO-Python")
-        - [Serial(Python)](?file=001-OrangePi/05-GPIO/03-H3-H2+/04-Serial(Python) "Serial(Python)")
+        - [Serial(Python)](?file=001-OrangePi/05-GPIO/03-H3-H2+/04-Serial-Python "Serial-Python")
     - **RDA8810PL**
         - [前言-RDA8810PL](?file=001-OrangePi/05-GPIO/04-RDA8810PL/01-前言-RDA8810PL "前言-RDA8810PL")
         - [WiringPi](?file=001-OrangePi/05-GPIO/04-RDA8810PL/02-WiringPi "WiringPi")
