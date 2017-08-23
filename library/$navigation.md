@@ -21,6 +21,7 @@
     - [OrangePi 3.5mm口cvbs音频输出](?file=001-OrangePi/03-开始入坑/09-OrangePi 3.5mm口cvbs音频输出 "OrangePi 3.5mm口cvbs音频输出")
     - [OrangePi 修改显示分辨率](?file=001-OrangePi/03-开始入坑/10-OrangePi 修改显示分辨率 "OrangePi 修改显示分辨率")
     - [系统界面汉化和安装中文语言](?file=001-OrangePi/03-开始入坑/11-系统界面汉化和安装中文语言 "系统界面汉化和安装中文语言")
+    - [Chromium浏览器添加Flash插件](?file=001-OrangePi/03-开始入坑/12-Chromium浏览器添加Flash插件 "Chromium浏览器添加Flash插件")
 - **进阶**
     - [前言-进阶](?file=001-OrangePi/04-进阶/01-前言-进阶 "前言-进阶")
     - [dtc工具转换dts与dtb](?file=001-OrangePi/04-进阶/02-dtc工具转换dts与dtb "dtc工具转换dts与dtb")
@@ -45,12 +46,15 @@
     - **H3-H2+**
         - [前言-H3-H2+](?file=001-OrangePi/05-GPIO/03-H3-H2+/01-前言-H3-H2+ "前言-H3-H2+")
         - [WiringOPh3](?file=001-OrangePi/05-GPIO/03-H3-H2+/02-WiringOPh3 "WiringOPh3")
+        - [GPIO-Python](?file=001-OrangePi/05-GPIO/03-H3-H2+/03-GPIO-Python "GPIO-Python")
+        - [Serial(Python)](?file=001-OrangePi/05-GPIO/03-H3-H2+/04-Serial(Python) "Serial(Python)")
     - **RDA8810PL**
         - [前言-RDA8810PL](?file=001-OrangePi/05-GPIO/04-RDA8810PL/01-前言-RDA8810PL "前言-RDA8810PL")
         - [WiringPi](?file=001-OrangePi/05-GPIO/04-RDA8810PL/02-WiringPi "WiringPi")
 - **玩家**
     - [前言-玩家](?file=001-OrangePi/06-玩家/01-前言-玩家 "前言-玩家")
     - [使用US-015超声波模块测距](?file=001-OrangePi/06-玩家/02-使用US-015超声波模块测距 "使用US-015超声波模块测距")
+    - [OrangePiZeroMFRC522](?file=001-OrangePi/06-玩家/03-OrangePiZeroMFRC522 "OrangePiZeroMFRC522")
 - **OrangePi-Zero**
     - [前言-OrangePiZero](?file=001-OrangePi/07-OrangePi-Zero/01-前言-OrangePiZero "前言-OrangePiZero")
     - [接口定义](?file=001-OrangePi/07-OrangePi-Zero/02-接口定义 "接口定义")
