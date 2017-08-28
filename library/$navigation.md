@@ -55,6 +55,7 @@
     - [前言-玩家](?file=001-OrangePi/06-玩家/01-前言-玩家 "前言-玩家")
     - [使用US-015超声波模块测距](?file=001-OrangePi/06-玩家/02-使用US-015超声波模块测距 "使用US-015超声波模块测距")
     - [OrangePiZeroMFRC522](?file=001-OrangePi/06-玩家/03-OrangePiZeroMFRC522 "OrangePiZeroMFRC522")
+    - [OrangePi网线直连电脑（windows）](?file=001-OrangePi/06-玩家/04-OrangePi网线直连电脑（windows） "OrangePi网线直连电脑（windows）")
 - **OrangePi-Zero**
     - [前言-OrangePiZero](?file=001-OrangePi/07-OrangePi-Zero/01-前言-OrangePiZero "前言-OrangePiZero")
     - [接口定义](?file=001-OrangePi/07-OrangePi-Zero/02-接口定义 "接口定义")
@@ -62,6 +63,8 @@
 - **OrangePi-OneLite**
     - [前言-OrangePi-One-Lite](?file=001-OrangePi/08-OrangePi-OneLite/01-前言-OrangePi-One-Lite "前言-OrangePi-One-Lite")
     - [接口定义](?file=001-OrangePi/08-OrangePi-OneLite/02-接口定义 "接口定义")
+    - [OrangePi One添加usb-ir-mic-tv-lineout](?file=001-OrangePi/08-OrangePi-OneLite/03-OrangePi One添加usb-ir-mic-tv-lineout "OrangePi One添加usb-ir-mic-tv-lineout")
+    - [OrangePi Lite添加usb-mic-tv-lineout](?file=001-OrangePi/08-OrangePi-OneLite/04-OrangePi Lite添加usb-mic-tv-lineout "OrangePi Lite添加usb-mic-tv-lineout")
 - **附录1**
     - [前言-附录1](?file=001-OrangePi/09-附录1/01-前言-附录1 "前言-附录1")
     - [Ubuntu15以上mkfs.ext4与旧版本不兼容解决](?file=001-OrangePi/09-附录1/02-Ubuntu15以上mkfs.ext4与旧版本不兼容解决 "Ubuntu15以上mkfs.ext4与旧版本不兼容解决")
