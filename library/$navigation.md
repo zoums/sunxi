@@ -22,7 +22,7 @@
     - [OrangePi 修改显示分辨率](?file=001-OrangePi/03-开始入坑/10-OrangePi 修改显示分辨率 "OrangePi 修改显示分辨率")
     - [系统界面汉化和安装中文语言](?file=001-OrangePi/03-开始入坑/11-系统界面汉化和安装中文语言 "系统界面汉化和安装中文语言")
     - [Chromium浏览器添加Flash插件](?file=001-OrangePi/03-开始入坑/12-Chromium浏览器添加Flash插件 "Chromium浏览器添加Flash插件")
-    - [Armbian修改时区](?file=001-OrangePi/03-开始入坑/13-armbian修改时间和时区 "Armbian修改时区")
+    - [armbian修改时间和时区](?file=001-OrangePi/03-开始入坑/13-armbian修改时间和时区 "armbian修改时间和时区")
 - **进阶**
     - [前言-进阶](?file=001-OrangePi/04-进阶/01-前言-进阶 "前言-进阶")
     - [dtc工具转换dts与dtb](?file=001-OrangePi/04-进阶/02-dtc工具转换dts与dtb "dtc工具转换dts与dtb")
@@ -73,6 +73,7 @@
     - [我的镜像](?file=001-OrangePi/09-附录1/04-我的镜像 "我的镜像")
     - [OrangiPi_2G-IOT](?file=001-OrangePi/09-附录1/05-OrangiPi_2G-IOT "OrangiPi_2G-IOT")
     - [如何使用AV耳机插孔听音乐](?file=001-OrangePi/09-附录1/06-如何使用AV耳机插孔听音乐 "如何使用AV耳机插孔听音乐")
+- [贡献列表](?file=001-OrangePi/10-贡献列表 "贡献列表")
 
 ##### MAYA
 - [收集Maya快捷键技巧](?file=002-MAYA/01-收集Maya快捷键技巧 "收集Maya快捷键技巧")
