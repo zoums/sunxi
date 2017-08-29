@@ -6,15 +6,17 @@
 
 ## 1、怎样将Linux操作系统（除 Android 系统外）写入 TF 卡中 {#1-android-tf-}
 
-OPI官方Linux类系统用户名一般为orangepi 或 root 密码为orangepi
+##### OPI官方Linux类系统用户名一般为orangepi 或 root 密码为orangepi
 
-Armbian一般用户名为root 密码为1234
+##### Armbian一般用户名为root 密码为1234
 
-DietPi用户名为dietpi 密码为 dietpi
+##### DietPi用户名为dietpi 密码为 dietpi
 
-其他的自己看相应系统官方说明。
+##### 其他的自己查去。
 
 有问题的去问题收集和底部不能启动的解决方法看看。
+
+烧写后记得扩容，往往镜像并不和sd卡一样大（看本章扩展分区大小）。
 
 ---
 
