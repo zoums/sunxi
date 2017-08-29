@@ -22,6 +22,7 @@
     - [OrangePi 修改显示分辨率](?file=001-OrangePi/03-开始入坑/10-OrangePi 修改显示分辨率 "OrangePi 修改显示分辨率")
     - [系统界面汉化和安装中文语言](?file=001-OrangePi/03-开始入坑/11-系统界面汉化和安装中文语言 "系统界面汉化和安装中文语言")
     - [Chromium浏览器添加Flash插件](?file=001-OrangePi/03-开始入坑/12-Chromium浏览器添加Flash插件 "Chromium浏览器添加Flash插件")
+    - [Armbian修改时区](?file=001-OrangePi/03-开始入坑/13-armbian修改时间和时区 "Armbian修改时区")
 - **进阶**
     - [前言-进阶](?file=001-OrangePi/04-进阶/01-前言-进阶 "前言-进阶")
     - [dtc工具转换dts与dtb](?file=001-OrangePi/04-进阶/02-dtc工具转换dts与dtb "dtc工具转换dts与dtb")
