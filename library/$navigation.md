@@ -6,7 +6,7 @@
 - **烧写操作系统**
     - [前言](?file=001-OrangePi/02-烧写操作系统/01-前言 "前言")
     - [OrangePi将操作系统写入TF卡（H3H5A64RDA）](?file=001-OrangePi/02-烧写操作系统/02-OrangePi将操作系统写入TF卡（H3H5A64RDA） "OrangePi将操作系统写入TF卡（H3H5A64RDA）")
-    - [OrangePi烧写系统到EMMC](?file=001-OrangePi/02-烧写操作系统/03-OrangePi烧写系统到EMMC "OrangePi烧写系统到EMMC")
+    - [OrangePi烧写系统到EMMC-全志](?file=001-OrangePi/02-烧写操作系统/03-OrangePi烧写系统到EMMC "OrangePi烧写系统到EMMC-全志")
     - [OrangePi_2G-IOT升级NAND中的Android](?file=001-OrangePi/02-烧写操作系统/04-OrangePi_2G-IOT升级NAND中的Android "OrangePi_2G-IOT升级NAND中的Android")
     - [OrangePi扩展分区大小](?file=001-OrangePi/02-烧写操作系统/05-OrangePi扩展分区大小 "OrangePi扩展分区大小")
 - **开始入坑**
